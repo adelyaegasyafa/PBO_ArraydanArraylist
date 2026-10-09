@@ -48,12 +48,11 @@ Bank  --(Customer[])-->  Customer  --(Account[])-->  Account
 ```
 .
 ├── Account.java
-├── Customer.java
 ├── Bank.java
+├── Customer.java
 ├── Main.java
 ├── README.md
-└── screenshots/
-    ├── 01-menu-atm
+└── Screenshot Tampilan Menu ATM
 ```
 
 ## Library Tambahan
@@ -72,7 +71,7 @@ javac *.java
 java Main
 ```
 
-### Menu ATM
+### Tampilan Menu ATM
 <img width="960" height="540" alt="Screenshot 2026-10-10 002637" src="https://github.com/user-attachments/assets/860b82e3-1a3d-4a22-8acc-39004c082c4f" />
 
 
