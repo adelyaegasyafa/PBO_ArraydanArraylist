@@ -1,8 +1,8 @@
 # Program ATM Sederhana (Array dan ArrayList)
 
-Latihan eksplorasi materi **Array dan ArrayList** pada mata kuliah Pemrograman Berorientasi Objek, Teknik Informatika, Universitas Mataram.
+Latihan eksplorasi materi **Array dan ArrayList** pada mata kuliah Pemrograman Berorientasi Objek, Program Studi Teknik Informatika, Fakultas Teknik, Universitas Mataram.
 
-## Identitas
+## Identitas Pembuat
 
 | | |
 |---|---|
@@ -73,19 +73,15 @@ javac *.java
 java Main
 ```
 
-## Screenshot
-
 ### Menu ATM
-![Menu ATM](screenshots/01-menu-atm.png)
+<img width="960" height="540" alt="Screenshot 2026-10-10 002637" src="https://github.com/user-attachments/assets/860b82e3-1a3d-4a22-8acc-39004c082c4f" />
 
-### Transaksi (deposit, withdraw, riwayat)
-![Transaksi](screenshots/02-transaksi.png)
 
 ## Contoh Output
 
 ```
 === ATM SEDERHANA ===
-Selamat datang, Budi Santoso
+Selamat datang, Ega Syafa
 
 1. Cek saldo
 2. Deposit
