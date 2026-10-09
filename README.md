@@ -53,8 +53,7 @@ Bank  --(Customer[])-->  Customer  --(Account[])-->  Account
 ├── Main.java
 ├── README.md
 └── screenshots/
-    ├── 01-menu-atm.png
-    └── 02-transaksi.png
+    ├── 01-menu-atm
 ```
 
 ## Library Tambahan
