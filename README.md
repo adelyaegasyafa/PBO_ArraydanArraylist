@@ -52,7 +52,7 @@ Bank  --(Customer[])-->  Customer  --(Account[])-->  Account
 ├── Customer.java
 ├── Main.java
 ├── README.md
-└── Screenshot Tampilan Menu ATM
+└── Screenshot Tampilan Menu ATM.png
 ```
 
 ## Library Tambahan
